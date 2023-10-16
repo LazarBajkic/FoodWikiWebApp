@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&family=Pathway+Gothic+One&display=swap');
+
+.mainDiv{
+    background-color: rgb(224, 243, 224);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 40px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(107, 178, 0);
+    display: inline-flex;
+    border-radius: 8px;
+}
+
+.title{
+    color: lightslategrey;
+    text-align: left;
+    margin-right: auto;
+    font-size: 36px;
+    margin-left: auto;
+    font-family: 'Nanum Gothic Coding', cursive;
+}
+
+.statsDiv{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.infotextDiv{
+    padding-left: 30px;
+    font-family: 'Nanum Gothic Coding', monospace;
+    padding-right: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.recipesDiv{
+    margin-top: 10px;
+    font-family: 'Nanum Gothic Coding', monospace;
+    padding-right: 20px;
+    letter-spacing: 1px;
+}
+
+.img{
+    border-radius: 10px;
+}
